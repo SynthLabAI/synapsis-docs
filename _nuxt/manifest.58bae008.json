@@ -1,0 +1,10 @@
+{
+  "name": "synapsis.docs",
+  "short_name": "synapsis.docs",
+  "icons": [],
+  "start_url": "/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#79eea6",
+  "lang": "en"
+}

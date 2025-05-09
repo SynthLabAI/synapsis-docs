@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/getting-started/installation", {data:[{statusCode:404,message:"Page not found"}],fetch:[],mutations:[]});
